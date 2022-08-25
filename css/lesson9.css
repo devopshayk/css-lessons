@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(107, 136, 136);
+}
+p {
+color: orangered;
+width: 50%;
+border-top: 2px solid yellow;
+border-bottom: 2px solid yellow;
+text-align: justify;
+text-indent: 1.5em;
+margin: 10px 5px 10px 5px;
+padding:10px 5px 10px 5px ;
+background-color: aliceblue;
+word-spacing: 3px;
+}
+
+
+
+.block1 {
+overflow: scroll;
+}
+.block2 {
+    overflow-x: hidden;
+}
+
+.block3 {
+overflow: scroll;
+}

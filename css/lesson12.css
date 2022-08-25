@@ -1,0 +1,28 @@
+body {
+    width: 30%;
+text-align: justify;
+background-color: white;
+}
+
+
+.bolder {
+    color: rgb(177, 2, 32);
+font-size: 2em;
+}
+.small {
+    color: grey;
+    font-size: 1em;
+
+}
+a:link {
+    color:rgb(177, 2, 32);
+}
+.box {
+    padding: 10px;
+    color: white;
+background-color: #181818;
+width: auto;
+}
+h3 {
+    color:rgb(177, 2, 32); 
+}

@@ -1,0 +1,28 @@
+body {
+	font-family: arial, sans-serif;
+	font-size:20px;
+}
+ul {
+	text-align: center;
+  margin: 0 auto;
+    padding: 0;
+    list-style-type: none;
+    width: 190px;
+}
+a:hover {
+	color: white;
+	background: #4682B4;
+}
+a {
+	color: #4682B4;
+	font-weight: bold;
+	display:block;
+	text-decoration: none;
+	padding:10px;
+}
+#menu li {
+	border-top: 1px solid #DCDCDC;
+	border-left: 5px solid #DCDCDC;
+	border-right: 5px solid #DCDCDC;
+	border-bottom: 1px solid #DCDCDC;
+}

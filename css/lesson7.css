@@ -1,0 +1,11 @@
+body {
+    background-color: #ede1be;
+}
+p {
+  border-left: 3px dotted blue;  
+text-indent: 1.5em;
+padding-left:  20px; ;
+margin: 60px auto;
+width: 300px;
+text-align: justify;
+}

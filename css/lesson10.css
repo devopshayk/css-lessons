@@ -1,0 +1,34 @@
+body {
+   border-left: solid 2px grey;
+padding-left: 30px;
+width: 500px;
+text-align: justify;
+word-spacing: 3px;
+}
+
+div {
+    border: solid 1px grey;
+background-color: rgb(255, 251, 251);
+padding: 2px 2px 2px 2px;
+font-size: small;
+padding: 3px 3px 3px 3px;
+}
+.coomands {
+    padding: 2px;
+    border: 1px solid;
+ 
+}
+.code {
+    padding: 2px;
+    background-color: #F6F5F3;
+    border: 1px solid #CBCBCB; 
+font-size: small;  
+}
+  .scrollable {
+    white-space: nowrap;
+    overflow-x: scroll; 
+  }
+  .style {
+    font-style: italic;
+color: blanchedalmond;  
+}

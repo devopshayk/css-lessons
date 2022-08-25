@@ -1,0 +1,10 @@
+body {
+    background: url(https://img-fotki.yandex.ru/get/67890/136164467.17/0_12bc81_21263ac1_orig.png);
+     
+ }
+ div {
+    width: 200px;
+    height: 100px;
+    border: 2px solid black;
+    margin: 40px auto;
+ }

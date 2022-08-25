@@ -1,0 +1,59 @@
+a:hover {
+color: red;
+
+}
+
+
+a:active {
+
+font-size: 25px;
+
+}
+
+a:link {
+color: brown;
+
+
+}
+
+p:first-letter {
+
+font-size: 25px;
+color: red;
+
+}
+
+input:focus {
+
+background-color: red;
+border-color: aqua;
+}
+
+body {
+background: rgba(75, 75, 120, 0.3)
+}
+#logo {
+
+    font-family: sans-serif;
+font-size: 2em;
+color: rgba(150, 80, 200, 0.7);
+font-style: italic;
+text-align: center;
+margin-bottom: 36px;
+background: rgba(60, 80, 140, 0.3);
+
+
+
+}
+article {
+max-width: 750px;
+margin: 0 auto ;
+}
+.box {
+    width: 50%;
+    float: left;
+box-sizing: border-box;
+}
+#box {
+    border-left: 2px;
+}

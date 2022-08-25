@@ -1,0 +1,16 @@
+body {
+    background-color:#ede1be;
+}
+p {
+
+    letter-spacing: normal;
+    padding: 10px;
+    margin: 20px 0 0 20px;    
+border: 2px solid red;
+width: 18%;
+color: orange;
+background-color: black;
+text-align: justify;
+text-indent: 1.5em;
+}
+

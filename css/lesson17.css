@@ -1,0 +1,48 @@
+body {
+    background-color: #069c79;
+}
+    #box-black {
+        position: relative;
+        border: 3px solid black;
+        width: 400px;
+        height: 400px;
+        margin: 10px auto;
+    }
+    #box-red {
+        position:absolute;
+        border: 3px solid black;
+        background:red;
+        width: 80px;
+        height:60px;
+        left: 50px;
+        top: 50px;
+    }
+    #box-blue {
+        position:absolute;
+        border: 3px solid black;
+        background:blue;
+        width: 80px;
+        height:180px;
+        left: 50px;
+        top: 150px;
+    }
+    #box-green {
+        border: 3px solid black;
+        background:green;
+        width: 180px;
+        height:160px;
+        position:absolute;
+        right: 50px;
+        top: 50px;
+    }
+    #box-yellow {
+        border: 3px solid black;
+        background:yellow;
+        width: 180px;
+        height:60px;
+        position:absolute;
+        right: 50px;
+        bottom: 65px;
+    }
+ 
+    

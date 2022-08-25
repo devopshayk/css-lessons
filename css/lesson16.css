@@ -1,0 +1,28 @@
+body {
+    background-color: lightgray;
+}
+.posr {
+    width: 500px;
+margin: 20px 30px 30px 100px;
+padding: 15px;
+}
+p {
+   text-indent: 20px;
+    text-align: justify;
+    color: black;
+} 
+.fixed {
+    position: fixed;
+	top: 50%;
+	border: 1px solid black;
+	background-color: white;
+	float: left;
+	width: 100px;
+	height: 50px;
+}
+
+.fixed a {
+     text-decoration: none;
+	 color: black;
+	 font-family: "Times New Roman", serif;
+}

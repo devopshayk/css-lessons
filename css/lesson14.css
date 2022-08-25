@@ -1,0 +1,30 @@
+.menu {
+    border-left: 13px solid whitesmoke;
+    padding-left: 35px;
+    width: 180px;
+    height: 250px;
+    margin: 60px auto;
+}
+.line {
+    border-top: 1px dotted whitesmoke;
+    padding-top: 10px;
+}
+a {
+    font-family:sans-serif;
+    font-size: 13px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: white;
+    background-color: #FA8072;
+    padding: 3px;
+}

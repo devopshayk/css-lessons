@@ -1,0 +1,21 @@
+.container {
+    background-color: #464646;
+    display: flex;
+    width: 490px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 8px 5px;
+    margin: auto;
+  }
+  .cell {
+    width: 150px;
+    height: 150px;
+    margin: 6px;
+    background-color: #272727;
+  }
+  p {
+    color: white;
+    position: relative;
+    top: 33%;
+    left: 23%;
+  }

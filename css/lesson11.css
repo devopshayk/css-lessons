@@ -1,0 +1,35 @@
+body {
+font-family: sans-serif;
+color: gray;
+text-align: justify;
+width: 500px;
+margin: 60px auto;
+}
+
+.blue {
+    color: blue;
+}
+.red {
+    color:indianred;
+}
+.green {
+    color: green;
+}
+h3 {
+    color: black;
+}
+.italic {
+    font-style: italic;
+}
+.var {
+    white-space: nowrap;
+    overflow-x: scroll; 
+}
+   
+.style {
+    display: inline-block;
+background-color: #FAFAFA;
+}
+b {
+    color: black;
+}
