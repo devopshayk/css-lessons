@@ -1,0 +1,19 @@
+body {
+    background-color: beige;
+}
+
+.green {
+
+width: 300px;
+height: 50px;
+padding: 40px 80px 40px 70px;
+margin-top: 25px;
+background-color: green;
+border-radius: 5px;
+box-shadow: 10px 10px 2px 2px #8A0000;
+}
+
+span {
+display: inline-block;
+word-spacing: 20px;
+}
