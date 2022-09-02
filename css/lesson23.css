@@ -1,0 +1,36 @@
+body {
+    background-color: #b8acab;
+}
+
+.blockend{
+margin:40px ; 
+}
+
+
+.block-left  {
+   width: 0px;
+   height: 0px;
+   border-left: 50px solid transparent;
+   border-right: 50px solid transparent;
+border-bottom: 100px solid green;
+display: inline-block;
+}
+
+
+.block-centr {
+ width: 0px;
+   height: 0px;
+ border-left: 100px solid transparent;
+   border-right: 100px solid transparent;   
+border-top: 200px solid green;
+display: inline-block;
+}
+
+.block-right {
+    width: 0px;
+    height: 0px;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+ border-bottom: 100px solid green;
+ display: inline-block;  
+}
