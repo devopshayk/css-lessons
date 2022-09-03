@@ -1,0 +1,11 @@
+body {
+    background-image: url(../images/moroccan-flower.png);
+}
+div {
+font-size: 3em;
+text-align: center;
+margin-top: 25px;
+font-family: serif;
+word-spacing: 25px;
+
+}
