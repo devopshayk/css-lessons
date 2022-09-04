@@ -3,16 +3,17 @@ body {
 }
 
 .blockend{
-margin:40px ; 
+margin: 40px auto; 
+margin-left: 80px;
 }
 
 
 .block-left  {
    width: 0px;
    height: 0px;
-   border-left: 50px solid transparent;
-   border-right: 50px solid transparent;
-border-bottom: 100px solid green;
+   border-left: 70px solid transparent;
+   border-right: 70px solid transparent;
+border-bottom: 50px solid green;
 display: inline-block;
 }
 
@@ -29,8 +30,8 @@ display: inline-block;
 .block-right {
     width: 0px;
     height: 0px;
-    border-left: 50px solid transparent;
-    border-right: 50px solid transparent;
- border-bottom: 100px solid green;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+ border-bottom: 50px solid green;
  display: inline-block;  
 }
