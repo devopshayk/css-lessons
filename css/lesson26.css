@@ -1,0 +1,31 @@
+body {
+    margin: 20px 0px 0px 20px;
+    font-size: 14px;
+    font-family: sans;
+}
+
+nav {
+ width: 700px;
+height: 30px;
+background-color:#57534f ;
+border-top: 5px solid #cf3224;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+}
+
+ul {
+margin: 0px;
+padding-left: 10px;
+list-style: none;
+display: block;
+}
+
+li {
+    display: inline-block;
+}
+a {
+    display: block;
+    padding: 8px 10px;
+    text-decoration: none;
+    color: white;
+ }
