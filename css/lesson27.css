@@ -1,0 +1,33 @@
+
+
+h1{
+font-family: sans-serif;
+margin-top: -90px;
+font-size: 25px;
+}
+
+h2 {
+font-family: sans-serif;
+color: red;
+font-size: 22px;
+display: inline-block;
+margin-top: -10px;
+}
+
+span { 
+font-size: 55px;
+margin-top: -5px;
+color: red; }
+
+.skeed { width: 160px; 
+height: 90px;
+border: 2px dotted red; 
+border-radius: 6px; 
+font-family: sans-serif;
+text-align: center; 
+padding-top: 2px; 
+font-weight:bold; 
+font-size: 25px;
+margin-left: 400px;
+margin-left: 330px;
+}
