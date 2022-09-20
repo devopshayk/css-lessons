@@ -1,0 +1,12 @@
+nav {
+    border: 1px solid black;
+width: 215px;
+height: 436px;
+
+}
+
+.text {
+    font-family: sans-serif;
+font-size: 16px;
+display: inline-block;
+}
