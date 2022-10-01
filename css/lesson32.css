@@ -1,24 +1,30 @@
-body {
-    font-family: sans-serif;
-}
-
-
 .border {
-    width: 300px;
+width: 300px;
 height: 130px;
-border: 2px solid #cdcdcd;
-margin: 40px auto;
+border: 1px solid #cccccc;
+margin:60px auto;
 padding: 15px 10px;
 }
 
-.text {
-line-height: 1.5em; 
-padding-top: 15px;
-
-}
-
 .red {
-color: #821508;
-font-weight: 700;
+color:#b21701 ;
+font-weight: 600;
+font-size: 18px;
 }
 
+
+.first-box{
+line-height: 25px;
+padding-top: 15px;
+font-size: 18px;
+text-align: left;
+}
+
+.second-box {
+position: relative;
+text-align: right;
+bottom: 73px;
+line-height: 25px;
+font-weight: bolder;
+font-size: 20px;
+}
