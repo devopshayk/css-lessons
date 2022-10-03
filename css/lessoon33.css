@@ -1,0 +1,73 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.border {
+width: 320px;
+height: 540px;
+border: solid 3px #316050  ;
+margin: 120px auto;
+padding:10px 5px ;
+}
+.text {
+font-size: 1.9em;
+text-align: center;
+border-bottom: 1px dotted red;
+}
+
+.swift {
+    padding: 10px 0px;
+    border-bottom: 1px dotted red;
+  
+}
+.swift img{
+   
+    border-right:10px rgb(255, 255, 255) solid;}
+.swsw{
+ font-size: 1.1em;
+
+}
+.putin {
+ padding: 10px 0px;
+ border-bottom: 1px dotted red;
+}
+.putin2 {
+    font-size: 1.1em;
+}
+.putin img {
+    border-right:10px rgb(255, 255, 255) solid;
+}
+
+.tank {
+ padding: 10px 0px;
+ border-bottom: 1px dotted red;
+}
+
+.tank img {
+    border-right:10px rgb(255, 255, 255) solid;}
+.tank2 {
+font-size:1.1em;
+
+}
+.humans {
+    padding: 10px 0px;
+    border-bottom: 1px dotted red;
+}
+.humans img {
+    border-right:10px rgb(255, 255, 255) solid;
+
+}
+.humans2 {
+    font-size: 1.1em;
+}
+
+.money {
+    padding: 10px 0px;
+}
+.money img {
+    border-right:10px rgb(255, 255, 255) solid;
+}
+.money2 {
+    font-size: 1.1em;
+}
