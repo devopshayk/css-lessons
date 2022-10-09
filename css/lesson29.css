@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+}
+.border {
+margin: 120px auto;
+width: 815px;
+height: 60px;
+border: 1px solid #b8e5bc;
+background-color: #dff6e1;
+
+}
+
+.blue {
+    position: relative;
+color: #003580;
+font-weight: 700;
+padding-top:12px;
+}
+  img {
+  padding: 15px 15px;
+}
+
+.green {
+    position: absolute;
+    padding-left: 50px;
+color:#2c7e0c;
+}
