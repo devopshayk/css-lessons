@@ -1,10 +1,56 @@
-body{
-    font-family: sans-serif;
+body {
+  
+    font-size: 15px;
+ 
 }
-.border{
-width: 400px;
-height: 200px;
-background-color: black;
+  .container {
+      position: relative;
+      width: 400px;
+    margin: 60px auto;
+      padding: 0;
+  }
+  pre {
+      width: 370px;
+      height: 250px;
+      background-color: #1E1F21;
+ padding: 0px 15px;
+      
+  }
+  pre::before {
+    content: attr(rel);
+      display: block;
+      position: relative;
+      left: -15px;
+      background-color: #E18727;
+      width: 370px;
+      padding: 8px 15px 6px;
+      color: #ffffff;
+      font-weight: bold;
+      font-size: 14px;
+      font-family: Arial;
+      
+  }
+  code {
 
+    margin: 0;
+      font-family: monospace;
 
-}
+    }
+  code span{
+    font-size: 13px;
+      line-height: 22px;
+      padding: 0px;
+  }
+  .property {
+      color: #827E8F;
+  }
+  .value {
+    color: #872F1B;
+  }
+  .rule {
+    color: #D8B782;
+  }
+  .sign {
+    color: #ffffff;
+      font-weight: bold;
+  }
