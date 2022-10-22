@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+font-size: 16px;
+}
+.border{
+position: relative;
+margin: 40px auto;
+width: 990px;
+height:60px;
+background-color:#575757 ;
+
+
+}
+
+.radius {
+position: absolute;
+display: inline;
+width: 970px;
+border: 1px solid grey;
+height: 40px;
+top: 10px;
+left: 10px;
+border-radius: 5px;
+}
+a > .radius{
+position: relative;
+padding: 10px 20px;
+color: whitesmoke;
+text-align: center;
+}
+a:hover{
+color:gray;
+transition: 0.5s;
+}
+input[type='search']{
+position: absolute;
+left: 100px;
+top: 10px;
+padding: 3px;
+}

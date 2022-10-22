@@ -1,0 +1,60 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.border{
+box-sizing: border-box;
+width:910px ;
+height:320px ;
+background-color: #f2f2f2;
+margin: 120px auto;
+
+}
+img{
+padding:10px 15px ;
+}
+.blue{
+font-size:44px ;
+font-weight: bold;
+width:370px ;
+color: white;
+background-color: #4576ba;
+padding: 10px 20px;
+}
+.radiu{
+    position: absolute;
+top: 180px;
+left: 750px;
+}
+
+.line{
+position: absolute;
+width:320px ;
+height:10px ;
+background-color: #4576ba;
+left:1080px ;
+top:200px ;
+}
+.red{
+position: absolute;
+font-size:21px ;
+width:410px ;
+font-weight: bolder;
+background-color: #d80000;
+padding: 10px 20px;
+color: white;
+text-transform: uppercase;
+text-align: center;
+}
+.radius{
+position: absolute;
+left: 830px;
+top:310px ;
+}
+.redius{
+position: absolute;
+width:200px ;
+height:10px ;   
+background-color: #d80000;
+left: 1200px;
+top:340px ;
+}
