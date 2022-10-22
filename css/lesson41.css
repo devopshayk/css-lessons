@@ -1,52 +1,57 @@
-body {
-    font-size: 15px;
-  }
-  .container {
-      position: relative;
-      width: 400px;
-    margin: 60px auto;
-      padding: 0;
-  }
-  pre {
-      width: 370px;
-      height: 250px;
-      background-color: #1E1F21;
-      padding: 0 15px;
-      
-  }
-  pre::before {
-    content: attr(rel);
-      display: block;
-      position: relative;
-      left: -15px;
-      background-color: #E18727;
-      width: 370px;
-      padding: 8px 15px 6px;
-      color: #ffffff;
-      font-weight: bold;
-      font-size: 14px;
-      font-family: Arial;
-      
-  }
-  code {
-    margin: 0;
-      font-family: monospace;
-  }
-  code span{
-    font-size: 13px;
-      line-height: 22px;
-      padding: 0px;
-  }
-  .property {
-      color: #827E8F;
-  }
-  .value {
-    color: #872F1B;
-  }
-  .rule {
-    color: #D8B782;
-  }
-  .sign {
-    color: #ffffff;
-      font-weight: bold;
-  }
+body{
+	margin:20px auto;
+	margin-left: 500px;
+}
+
+.container{
+	width:400px;
+	background-color:#1E1F21;
+	padding-bottom:15px;
+	position:relative;
+}
+
+.orange{
+	color:#D5BE92;
+	font-size:16px;
+}
+
+.name{
+	background-color:#E18727;
+	color:#ffffff;
+	height:30px;
+	padding-left:15px;
+	line-height:30px;
+	font-family:monospace;
+	font-size:16px;
+}
+
+.grey{
+color:#94919C;
+margin-left:20px;
+font-size:14px;
+font-family:monospace;
+}
+
+.red{
+	color:#B47472;
+	font-size:14px;
+	font-family:monospace;
+}
+
+.white{
+	color:#ffffff;
+}
+
+.code{
+	margin-left:15px;
+	margin-top:20px;
+	line-height:1.3;
+}
+
+p{
+	position:absolute;
+	text-align:right;
+	color:#535353;
+	font-size:19px;
+	right:-8px;
+}
