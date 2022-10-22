@@ -1,8 +1,6 @@
 body {
-  
     font-size: 15px;
- 
-}
+  }
   .container {
       position: relative;
       width: 400px;
@@ -13,7 +11,7 @@ body {
       width: 370px;
       height: 250px;
       background-color: #1E1F21;
- padding: 0px 15px;
+      padding: 0 15px;
       
   }
   pre::before {
@@ -33,8 +31,7 @@ body {
   code {
     margin: 0;
       font-family: monospace;
-
-    }
+  }
   code span{
     font-size: 13px;
       line-height: 22px;
