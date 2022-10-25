@@ -1,0 +1,198 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.boreder{
+
+    padding: 17px 5px;
+
+}
+.borders{
+    border-right: 1px solid #ebd6a0;
+position:absolute;
+border-left: 1px solid #ebd6a0;
+
+
+}
+
+.plan{
+width: 770px;  
+background-color: #fcf8e4;
+padding: 5px;
+font-size: 16px ;
+font-weight: 600;
+border-bottom: 2px solid #ebd6a0;
+border-top: 1px solid #ebd6a0;
+
+}
+.zanatye{
+width: 770px;
+padding: 5px;
+background-color: #ff9823;
+font-weight: 600;
+font-size: 14px;
+color: white;
+border-bottom: 2px  solid #ebd6a0;
+
+}
+.box3{
+  padding-left: 600px;
+}
+
+.box2{
+ position: absolute;  
+padding-left: 115px;
+}
+.box1{
+    padding-left: 5px;
+}
+.lekcia1{
+    padding-top: 5px;
+color: #0071b9;
+font-weight: 700;
+}
+.chasi{
+    padding-top: 5px;
+font-weight: bold;
+}
+.photo1{
+position: absolute ;
+left: 185px;
+top: 80px;
+padding: 5px;
+color: #0071b9;
+font-weight: bold;
+font-size: 15px;
+}
+.pp{
+    position: absolute ;
+    left: 190px;
+    top: 107px; 
+font-size: 13px;
+
+
+}
+.gic{
+    position: absolute;
+    left:690px;
+    top: 80px;
+
+}
+.botttom{
+    border-bottom:1px solid #ebd6a0;
+}
+
+.lekcia2{
+    color: #0071b9;
+font-weight: bold;
+padding-top: 7px;
+}
+.chasi2{
+    padding-top: 5px;
+font-weight: bold;
+
+}
+.photo2{
+position: absolute ;
+left: 185px;
+top: 148px;
+padding: 5px;
+color: #0071b9;
+font-weight: bold;
+font-size: 15px;
+}
+.asd{
+    color: #fff;
+}
+.asx{
+    color: #fff;
+}
+.ppp{
+    font-size: 13px;
+    position: absolute ;
+    left: 190px;
+    top: 177px; 
+
+}
+.btom{
+    border-bottom:1px solid #ebd6a0;
+
+}
+.gic2{
+    position: absolute;
+    left:690px;
+    top: 155px;
+}
+.lekcia3{
+    color: #0071b9;
+font-weight: bold;
+padding-top: 7px ;
+}
+.chasi3{
+    padding-top: 5px;
+font-weight: bold;
+
+}
+.photo3{
+    position: absolute ;
+    left: 185px;
+    top: 250px;
+    padding: 5px;
+    color: #0071b9;
+    font-weight: bold;
+    font-size: 15px;
+    }
+    .pio{
+        font-size: 13px;
+        position: absolute ;
+        left: 190px;
+        top: 282px; 
+    }
+    .botim{
+        border-bottom: 1px solid #ebd6a0;
+    
+    }
+    .asxx{
+        color: #fff;
+    }
+    .gic3{
+        position: absolute;
+        left:690px;
+        top: 255px;
+    }
+    .boim{
+        border-bottom:1px solid #ebd6a0 ;
+    
+    }
+    .gic4{
+        position: absolute;
+        left:690px;
+        top: 345px;
+    }
+    .lekcia4{
+        color: #0071b9;
+    font-weight: bold;
+    padding-top: 7px ;
+    }
+    .chasi4{
+        padding-top: 5px;
+    font-weight: bold;
+    }
+    .photo4{
+        position: absolute ;
+        left: 185px;
+        top: 335px;
+        padding: 5px;
+        color: #0071b9;
+        font-weight: bold;
+        font-size: 15px;
+        }
+        .psd{
+            font-size: 13px;
+            position: absolute ;
+            left: 190px;
+            top: 365px; 
+        }
+        .qwe{
+            color: #fff;
+        }

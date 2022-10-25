@@ -26,7 +26,7 @@ color: red;
 input:focus {
 
 background-color: red;
-border-color: aqua;
+border-color: rgb(0, 255, 255);
 }
 
 body {
