@@ -1,0 +1,72 @@
+body{
+font-family: Arial;
+width: 845px;
+margin: 20px auto;
+}
+h4{
+width: 830px;
+padding: 10px;
+text-align: center;
+background-color: #c0d0e0;
+}
+
+.link1{
+color: #1752b6;
+font-weight: bold;
+font-size: 14px;
+position: absolute;
+}
+
+.st1{
+font-size: 13px ;
+padding-bottom: 25px;
+border-bottom: 1px solid #e0e0e0;
+}
+.part1{
+display: inline-block;
+padding-left: 530px;
+font-size: 12px;
+
+}
+.cell1 {
+padding-top: 20px;
+}
+.cell2 {
+padding-top: 20px;
+}
+.cell3 {
+padding-top: 20px;
+}
+
+
+.part2{
+display: inline-block;
+padding-left: 25px;
+font-size: 12px;
+
+}
+.ssss{
+font-size: 15px;
+color: #5882ca;
+
+}
+.first{
+position: absolute;
+left: 1023px;
+top: 117px ;
+}
+.second{
+position: absolute;
+left: 1023px;
+top: 215px ;
+}
+.third{
+position: absolute;
+left:1023px;
+top: 310px ;
+}
+.for{
+position: absolute;
+left: 1023px;
+top: 405px ;
+}
