@@ -1,0 +1,46 @@
+.conteiner{
+	width: 500px;
+	height: auto;
+	margin: 50px auto;
+	background-color: #F1F2EF;
+	position: relative;
+	padding: 15px;
+	overflow: hidden;
+	
+}
+
+.content{
+	color: #fff;
+	padding: 10px 20px 10px 20px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 40px;
+	background-color: #344963;
+}
+
+.box{
+	width: 120px;
+	height: 140px; 
+	background-color: #F1F2EF;
+	position: absolute;
+	top: -20px;
+	left: 350px;
+	float: left;
+	transform: rotate(15deg);
+}
+
+.big{
+	position: absolute;
+	width: 50px;
+	height: 140px;
+	background-color: #C9CED4;
+	margin: 0 15px 0 15px;
+}
+
+.small{
+	position: absolute;
+	width: 25px;
+	height: 140px;
+	background-color: #C9CED4;
+	left: 80px;
+}
