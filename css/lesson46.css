@@ -1,0 +1,103 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.wrap {
+    border: 1px solid rgb(255,255,255);
+      margin: 30px auto;
+      width: 715px;
+  }
+  article {
+      padding: 5px 20px 15px 15px;
+      border-left: 10px solid transparent;
+      border-image: linear-gradient(to right, #e2e2e2, #d5d5d5);
+      border-image-slice: 1;  
+  }
+  
+  h2 {
+      margin: 0 0 15px 0;
+      font-size: 22px;
+      font-family: 'Century Gothic', 'Apple Gotic', 'URW Gothic L', sans-serif;
+  }
+  .post-title a {
+      color: black;
+  }
+  a {
+    text-decoration: none;
+  }
+  
+  .post-data {
+      color: #999999;
+      font-size: 11px;
+      margin-bottom: 15px;
+  }
+  .post-data span {
+    padding: 2px 0 2px 20px;
+  }
+  .post-data a {
+    color: #777777;
+  }
+  
+  .article-tags a {
+      color: #ffffff;
+      background-color: #999999;
+      padding: 2px 4px;
+      font-weight: bold;
+  }
+  .article-tags {
+    list-style: none;
+      padding: 0;
+      margin: 6px;
+  }
+  .article-tags li {
+    display: inline-block;
+      margin-right: 8px;
+  }
+  
+  .post-date {
+      background: url("http://magon.net.ru/wp-content/themes/imagine/images/date-ico.png") no-repeat 0 0;
+      margin-right: 10px;
+  }
+  .post-category {
+    background: url("http://magon.net.ru/wp-content/themes/imagine/images/cat-ico.png") no-repeat 0 0;
+  }
+  span.post-comment {
+    background: url("http://magon.net.ru/wp-content/themes/imagine/images/comment-ico-w.png") no-repeat 0 0;
+      float: right;
+      margin-right: 20px;
+      padding-left: 22px;
+      padding-top: 0px;
+  }
+  .article-poster {
+    margin: 30px 0 0 0;
+  }
+  .article-poster img {
+    width: 34%;
+      float: left;
+      padding-right: 20px;
+  }
+  .entry {
+    padding: 0px 20px;
+      font-size: 12px;
+  }
+  .entry p {
+    margin-bottom: 20px;
+      line-height: 1.4;
+  }
+  
+  .post-preview::after {
+    content:'';
+      display: table;
+      clear: both;
+  }
+  .more {
+    font-style:italic;
+      float: left;
+      clear: both;
+      margin-left: 36%;
+  }
+  .more:hover {
+    text-decoration: underline;
+  }
+  
+  
