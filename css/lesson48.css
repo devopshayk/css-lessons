@@ -1,0 +1,95 @@
+body {
+	font-size: 18px;
+	font-family: Times, serif;
+}
+header {
+  width: 1140px;
+	margin: 20px auto;
+	padding: 20px;
+}
+.logo, .contacts, li {
+  display: inline-block;
+}
+.logo {
+  width: 550px;
+}
+.name {
+	margin: 0;
+	padding-left: 20px;
+  color: #800000;
+	text-decoration: none;
+	font-size: 41px;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Georgia, sans-serif;
+	text-align: left;
+}
+.logo span {
+	margin: 0;
+  padding-left: 12px;
+	font-size: 22px;
+	color: #808080;
+}
+.contacts {
+  padding-left: 17px;
+}
+.tel {
+  font-size: 30px;
+	font-family: Georgia, sans-serif;
+	margin-bottom: 10px;
+	color: #000066;
+}
+.sup {
+	vertical-align: 3px;
+}
+.time {
+  font-style: italic;
+	font-size: 18px;
+	color: #800000;
+	margin: 0;
+	padding-left: 5px;
+}
+nav {
+	margin: 10px 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 18px;
+}
+
+nav ul {
+	padding: 5px;
+	background-color: white;
+	list-style: none;
+	border-top: 1px dashed #888888;
+	border-bottom: 1px dashed #888888;
+}
+nav li {
+	margin-right: 18px;
+	font-style: italic;
+}
+li:last-child {
+  margin-right: 0;
+}
+span {
+  display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+a {
+	display: block;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	color: #000066;
+}
+.features ul {
+	padding: 10px;
+}
+.features li:first-child {
+  margin-left: 0;
+}
+.features li {
+  font-size: 22px;
+	margin-left: 33px;
+  color: #808080;
+}
