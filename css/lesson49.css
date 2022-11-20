@@ -1,0 +1,28 @@
+
+
+
+
+.two{
+    margin: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.first{
+    width: 50px;
+height: 50px;
+border-radius: 15px;
+background-color:#a9701c;
+transform: rotate(45deg);
+
+}
+.second{
+position: absolute;
+left: 10px;    
+width: 50px;
+height: 50px;
+border-radius:  15px;
+background-color: #1d57a9;
+transform: rotate(45deg);
+opacity:.9;
+}
