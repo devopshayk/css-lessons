@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+ list-style: none;
+font-size: 2em;
+text-align: center;
+display: block;
+position: relative;
+}
+
+
+li{
+display: inline-block;
+padding: 10px;
+
+}
+
+a{
+    color:#2f87ab ;
+transition: .5s;
+position: relative;
+}
+
+a:focus{
+text-decoration: none;
+background-color:#ff6a1f ;
+color: white;
+padding: 5px 10px;
+transition: .5s;
+}
+
+
+.orange {
+text-decoration: none;
+background-color: #ff6a1f;
+padding: 5px 10px;
+color: white;
+}
+
