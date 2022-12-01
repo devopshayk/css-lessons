@@ -1,0 +1,52 @@
+body{
+    font-size: 15px;
+font-family: Arial;
+}
+
+.black{
+   width:975px ;
+height: auto;
+background-color: #575757;
+padding: 10px;
+
+}
+
+.border{
+width: 950px;
+padding: 10px;
+
+border: 1px solid #6b6b6b;
+border-radius: 5px;
+}
+
+li{
+padding: 0 15px;
+display: inline-block;
+}
+
+a{
+    color: #fff;
+transition: .3s;
+
+}
+
+a:hover{
+color:#919191 ;
+}
+
+input{
+   margin: 0 10px;
+padding: 5px;
+border-radius: 3px;
+border: none;
+width: 200px;
+}
+
+li:nth-child(4){
+    border-right: 1px solid #919191;
+}
+
+li:nth-child(6){
+    border-right: 1px solid #919191;
+}
+
