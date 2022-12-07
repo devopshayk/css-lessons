@@ -1,0 +1,69 @@
+body {
+	font-family: serif;
+	font-size: 20px;
+}
+.container {
+	width: 300px;
+	margin: 20px auto;
+}
+h4 {
+	font-size: 23px;
+	font-weight: normal;
+	margin: 0;
+	padding: 8px;
+	text-align: center;
+	text-transform: uppercase;
+	color: #fff;
+	border-radius: 6px 6px 0 0;
+	background-color: #007854;
+}
+.heading {
+	display: inline-block;
+	box-sizing: border-box;
+	width: 100%;
+	padding: 5px 10px 12px;
+	text-align: center;
+	background-color: #000;
+}
+.date {
+	font-family: serif;
+	font-size: 22px;
+	font-weight: normal;
+	padding: 0 30px 0 40px;
+	color: #fff;
+}
+button {
+	width: 0;
+	height: 0;
+	padding: 0;
+	cursor: pointer;
+	vertical-align: bottom;
+	border: 12px solid transparent;
+	outline: none;
+	background-color: transparent;
+}
+.prev {
+	border-right-color: #04b565;
+	border-left: none;
+}
+.next {
+	border-right: none;
+	border-left-color: #04b565;
+}
+.calendar {
+	width: 300px;
+	padding: 16px;
+	text-align: right;
+	background-color: #e6e6e6;
+}
+.calendar td {
+	padding: 5px;
+	color: #7a7a7a;
+}
+.calendar .past {
+	color: #000;
+}
+.calendar .current-date {
+	color: #fff;
+	background-color: #007854;
+}

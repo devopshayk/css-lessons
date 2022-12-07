@@ -1,0 +1,31 @@
+body{
+    font-family: sans-serif;
+
+}
+
+.alltext{
+position: absolute;
+
+font-size: 16px;
+
+}
+
+
+img{
+position: absolute;
+left: 200px;
+top: 100px;
+}
+
+.alltext:nth-child(2) {
+position: absolute;
+top: 60px;
+left:310px ;
+}
+
+.one {
+position: absolute;
+top: 90px;
+left:400px ;
+
+}
