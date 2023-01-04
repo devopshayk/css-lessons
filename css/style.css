@@ -1,0 +1,137 @@
+body {
+    font-family: 'Gotham Pro';
+}
+
+
+html {
+overflow: hidden;
+}
+
+
+
+.multiteach {
+ font-size:32px ;
+margin: 40px 200px;
+}
+
+.teach {
+    color:#5364FF ;
+}
+
+
+.nav {
+font-size: 15px;
+font-weight:bold ;
+margin: 0 210px;
+vertical-align: top;
+}
+
+.links {
+    text-decoration: none;
+    color:#252525;
+    padding: 0 15px;
+    transition: .5s;
+} 
+
+
+li {
+    display: inline-block;
+list-style: none;
+
+}
+
+.header {
+ display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.links:hover {
+    background-color: #5364FF;
+color: #fff;
+border-radius:300px;
+padding: 12px 18px;
+transition: .5s;
+}
+
+.active {
+
+    background-color: #5364FF;
+    color: #fff;
+    border-radius: 300px;
+  text-decoration: none;
+    padding: 12px 18px;
+
+}
+
+.mtl{
+color: #252525;
+
+}
+
+
+.all3{
+    font-size: 160px;
+margin:260px 0 0 200px ;
+font-weight: 700;
+line-height: 180px;
+
+
+}
+
+.tch{
+
+color: #5364FF;
+}
+
+@font-face {
+    font-family: 'Neue Machina';
+    src: url('NeueMachina-Bold.eot');
+    src: local('Neue Machina Bold'), local('NeueMachina-Bold'),
+        url('NeueMachina-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NeueMachina-Bold.woff2') format('woff2'),
+        url('NeueMachina-Bold.woff') format('woff'),
+        url('NeueMachina-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+.all5 {
+    margin: 0 205px;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: 'Neue Machina';
+    font-style: normal;
+}
+
+
+.hover{
+text-decoration: none;
+color: #252525;
+}
+
+
+.hover:hover, .hover2:hover {
+    border-bottom: 2px solid #e3e3e3;
+}
+
+.hover2 {
+padding-left: 24px;
+color: #252525;
+transition: .2s;
+text-decoration: none;
+
+}
+
+.img img {
+width: 1200px;
+height: 900px;
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+margin:120px 650px;
+transform: rotate(10deg);
+background-repeat: no-repeat;
+
+}
