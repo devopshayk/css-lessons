@@ -1,0 +1,57 @@
+.all {
+display: flex;
+justify-content: center;
+transform: rotate(15deg);
+margin-top: 50px;
+}
+
+
+.image {
+    border: 2px solid gainsboro;
+    width: 200px;
+   
+}
+
+
+
+    
+img { 
+    width: 200px; 
+    height: 200px; 
+    background-size: contain;
+    
+}
+
+
+.text {
+    font-size:18px ;
+    text-align: center;
+    color: #737270;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+
+.text2 {
+    position: absolute;
+    top: 40px;
+    left: 680px;
+    padding:15px;
+    background-color: #f7f7f7;
+    border-radius: 7px;
+}
+
+.all2 {
+    color:#737270 ;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 14px;
+    opacity: .8;
+    transition: .3s;
+}
+
+.all2:hover  {
+    opacity: 1;
+    transition: .3s;
+
+}
