@@ -1,0 +1,61 @@
+body {
+    font-family: Arial;
+    width: 500px;
+    margin: 40px auto; 
+}
+
+
+
+
+.car {
+    color:#276ab0 ;
+    font-size: 22px;
+}
+
+
+.cod {
+    color: #afa59c;
+    font-size: 16px;
+    padding-top: 5px;
+}
+
+.week {
+    padding-top: 10px;
+    font-size: 20px;
+    color: black;
+ 
+}
+
+
+
+.money {
+    font-size: 25px;
+    padding-top: 15px;
+    font-weight: 700;
+}
+
+img {
+    margin:  0 40px 0 0;
+}
+
+
+.btn {
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    background-color: #ea1653;
+    padding: 10px 50px;
+    opacity: 1;
+    transition: .3s ease;
+}
+
+
+.btnn {
+    padding-top: 25px;
+}
+
+
+.btn:hover {
+    background-color: #ff1653;
+    transition: .3s ease;
+}
